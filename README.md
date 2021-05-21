@@ -1,4 +1,4 @@
-# Candle-Extinuishing-Robot
+# Candle-Extinguishing-Robot
 This robot was made to complete a task while deployed in a fictitious world/scenario.
 
 The "World":
